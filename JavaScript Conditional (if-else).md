@@ -1,4 +1,6 @@
 
+
+```javascript
 var nama = "Zero";
 var peran = "Penyihir";
 
@@ -25,4 +27,9 @@ else if ( nama === nama && peran == "Penyihir") {
   console.log("Selamat datang di Dunia Proxytia, "+nama);
   console.log("Halo Penyihir "+nama+" ciptakan keajaiban yang membantu kemenanganmu!");
 }
+
+```
+
+    Selamat datang di Dunia Proxytia, Zero
+    Halo Penyihir Zero ciptakan keajaiban yang membantu kemenanganmu!
 
